@@ -1,5 +1,5 @@
 讨论总结：
-#一、 环境的配置，php安装脚本：
+# 一、 环境的配置，php安装脚本：
 ``` 
  #!/bin/bash
  mkdir /usr/local/php7.1.0
